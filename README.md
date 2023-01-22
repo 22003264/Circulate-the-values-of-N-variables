@@ -35,8 +35,7 @@ n=eval(input())
 ~~~
 
 ## Output:
-![Screenshot (7)](https://user-images.githubusercontent.com/119389139/211520373-9470890a-b371-493b-9f82-37860c94c5af.png)
-
+![image](https://user-images.githubusercontent.com/119389139/213918906-4f4a98bc-4b70-4d42-b9c7-7021caa948ea.png)
 
 ## Result:
 Thus, Using the function concept, circulating n variables are executed and displayed successfully.
